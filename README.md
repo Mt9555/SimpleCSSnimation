@@ -1,4 +1,4 @@
-# SimpleCSSnimation
+# CSSnimation
 
 
 
